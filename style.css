@@ -1,0 +1,43 @@
+
+
+
+#bigHead{
+    font-family: 'Courier New', Courier, monospace; color:grey; text-align: center
+}
+
+#divOne{ 
+background-color: black;border: 50px;border-style: dashed;  border-width: 20px;border-color: lightgoldenrodyellow;
+}
+
+p{
+    font-size: large; text-align:center;font-family: 'Courier New', Courier, monospace; #1B1212;
+}
+
+#paraOne{
+    background-color: #6495ED; border: 150px; border-style:solid; border-color: #000080;
+}
+
+#paraTwo{
+    background-color: #EF5350; border: 150px; border-style: solid; border-color: #B71C1C;
+}
+
+#form{
+    background-color: #4e1858; border:125px; border-style: dashed; border-width: 25px; text-align: center;
+}
+.form{
+    text-align: center;
+}
+
+
+h3{
+    font-size: 75px; color: aliceblue;
+}
+#mini{
+    color: aliceblue;
+}
+
+.waterItem{ background-color: #90CAF9; border: 75PX; border-style: groove; border-color: #000080;}
+.roseItem{background-color: #f33a6a; border: 75px;border-style: groove; border-color: #B71C1C;}
+p{ font-family: 'Courier New', Courier, monospace; color: aliceblue;}
+
+#cart{ color: aliceblue;  font-family: 'Courier New', Courier, monospace;}
